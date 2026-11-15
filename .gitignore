@@ -31,6 +31,10 @@ models/
 data/uploads/*
 data/processed/*
 data/raw/*
+data/database/*
+data/reports/*
+*.exe
+*.db
 
 # Logs
 *.log
